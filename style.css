@@ -1,0 +1,29 @@
+.aaaa{
+    background-color: rgba(27, 237, 27, 0);
+    color: rgb(27, 0, 183);
+    font-size: 70px;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    letter-spacing: 8px;
+    border-radius: 35%;
+    padding: 40px;
+
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(108, 214, 120);
+    height: 95vh;
+
+
+} 
+.kkk{
+    padding: 25px;
+    font-weight: 900;
+
+}
